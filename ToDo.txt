@@ -1,0 +1,30 @@
+﻿
+[July 24, 2014] Known Issues/Fixes
+- when "READ THIS" text appears and has an "AND" pharase in it, it's not handled yet
+- the book of Colossians has a problem when it's sited in the general WT article with-out the "READ THIS", 
+	- the amharic Col, is not Kol . . .(Ko(lock is side of) and Ko(lock is head of)
+- 
+
+
+
+Version 2.0
+???????? PDF tracking/maching and mapping????
+
+Version 1.1
+- the mis-match text verses fixed
+- feature now works with exception trapped
+- few updates and name bug fixes
+
+Version 1.0
+- Number of features updated, now it can handle 99% of the text parsing and matching
+- merging works ok
+- mapped name of bible titles fixed
+
+version 0.7
+- merge is functional now
+- features added
+
+
+version 0.5
+- parsing is working
+- number of features added for the parsing

@@ -1,0 +1,16 @@
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\bin\Release\Verse Extractor.exe
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\bin\Release\Verse Extractor.pdb
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\obj\Release\ResolveAssemblyReference.cache
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\obj\Release\VerseExtractor.frmMain.resources
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\obj\Release\VerseExtractor.Properties.Resources.resources
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.csproj.GenerateResource.Cache
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.exe
+I:\Visual Studio Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\bin\Release\Verse Extractor.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\bin\Release\Verse Extractor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\obj\Release\VerseExtractor.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\obj\Release\VerseExtractor.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse Extractor\Verse Extractor\obj\Release\Verse Extractor.csproj.GenerateResource.Cache

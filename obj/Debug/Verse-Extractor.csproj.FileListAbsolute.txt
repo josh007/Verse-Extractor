@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse-Extractor\Verse-Extractor\obj\Debug\Verse Extractor.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Verse-Extractor\Verse-Extractor\obj\Debug\Verse Extractor.pdb
